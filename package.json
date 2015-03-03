@@ -10,8 +10,7 @@
     "type": "git",
     "url": "https://github.com/calvinmetcalf/pbkdf2-utils.git"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/calvinmetcalf/pbkdf2-utils/issues"
   },
