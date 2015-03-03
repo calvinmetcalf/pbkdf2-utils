@@ -1,0 +1,27 @@
+{
+  "name": "pbkdf2-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calvinmetcalf/pbkdf2-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/pbkdf2-utils/issues"
+  },
+  "homepage": "https://github.com/calvinmetcalf/pbkdf2-utils",
+  "dependencies": {
+    "bluebird": "^2.9.13",
+    "pbkdf2": "^3.0.3",
+    "randombytes": "^2.0.1"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
