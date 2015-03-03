@@ -1,6 +1,6 @@
 var test = require('tape');
 var pbkdf2 = require('./');
-var randomBytes = require('randomBytes');
+var randomBytes = require('randombytes');
 var iterations = [1, 2, 10];
 var algos = [
   'sha1',

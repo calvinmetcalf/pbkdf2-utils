@@ -1,7 +1,7 @@
 var compat = require('pbkdf2');
 var Promise = require('bluebird');
 var pbkdf2 = Promise.promisify(compat.pbkdf2);
-var randomBytes = require('randomBytes');
+var randomBytes = require('randombytes');
 var algos = {
   0: 'sha1',
   1: 'sha224',
