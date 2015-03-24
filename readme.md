@@ -1,5 +1,4 @@
-pbkdf2-utils
-===
+# pbkdf2-utils
 
 [![Build Status](https://travis-ci.org/calvinmetcalf/pbkdf2-utils.svg)](https://travis-ci.org/calvinmetcalf/pbkdf2-utils)
 
