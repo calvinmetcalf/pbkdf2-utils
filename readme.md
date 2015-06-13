@@ -5,7 +5,7 @@
 a few helper utilities for using pbkdf2
 
 ```js
-var pbkdf2 = require('pbkdf2');
+var pbkdf2 = require('pbkdf2-utils');
 
 pbkdf2.hash(password, iterations, callback);
 pbkdf2.hash(password, iterations, len, callback);
